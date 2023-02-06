@@ -1,0 +1,64 @@
+.active{ 
+    color: #31ADE7 !important;
+} 
+.about-us-section{
+background-color: #A1CBDE;
+     color:#ffffff;
+padding: 3% 0 0% 0;
+    height: 92vh;
+ }
+      .about-us-section p{
+          font-size: 24px;
+      }
+.about-us-section a{
+    color: #fff !important;
+}
+.about-us-section a:hover{
+    color: #31ADE7 !important;
+    text-decoration: none;
+}
+ .about-titile{
+  background-color: #ffffff;;
+    color: #31ADE7;
+    width: 50%;
+    text-align: right;
+    padding: 20px;
+
+ }
+      .about-titile span{
+          font-size: 40px;
+      }
+ .about-titile-two{
+  background-color: #ffffff;
+    color: #31ADE7;
+    width: 45%;
+    padding: 30px;
+    position: absolute;
+    right: 0;
+    font-size: 25px;
+ }
+ .avatar-img img{
+  width: 80%;
+/*
+    border-radius: 60%;
+    border: 1px solid red;
+*/
+ }
+      .desc{
+          padding: 40px 0px 40px 0;
+      }
+      .p-20{
+       padding-bottom: 20px;   
+      }
+      .navbar-dark .navbar-nav .nav-link{
+          color:#000 !important;
+      }
+      .navbar-dark .navbar-toggler-icon{
+          background-image: url("./images/menu.png")!important;
+      }
+      .sicons a{
+          padding-right: 20px;
+      }
+.sicons{
+    text-align: center
+}

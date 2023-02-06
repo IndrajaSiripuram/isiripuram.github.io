@@ -1,0 +1,114 @@
+.active{ 
+    color: #31ADE7 !important;
+}
+ #hero {
+    width: 100%;
+    height: 50vh;
+    background: url(../images/adopt/adopt-banner.svg) center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    padding: 0;
+}
+    
+.adopt h3{
+   color:  #707070;
+    margin-bottom: 1.5rem;
+}
+.overview h3{
+    color:#31ADE7
+}
+.problems, .solution{
+background-color: #fff;
+border-radius: 25px;
+box-shadow: 0px 3px 6px #FC840A;
+    text-align: center;
+}
+
+.TimeTaking{
+    background-color: #fff;
+    color: #000;
+    border-radius: 25px;
+    padding: 25px;
+    text-align: center;
+box-shadow: 0px 3px 6px #FC840A;
+}
+.round1, .round2{
+    margin-top: 40px;
+    background-color: #fff;
+    color: #000;
+    border-radius: 25px;
+    padding: 25px;
+box-shadow: 0px 3px 6px #FC840A;
+}
+      .round1 div, .round2 div{
+          align-items: center;
+          padding-bottom: 14px;
+      }  
+      .round1 p, .round2 p{
+          padding-left: 14px;
+      }
+      
+.Mockups img{
+    width: 100%;
+}
+.Accessibility-box{
+    background-color: #fff;
+    color: #000;
+    border-radius: 25px;
+    padding: 50px;
+box-shadow: 0px 3px 6px #FC840A;
+}
+      .Accessibility-box div{
+          padding-bottom: 20px;
+          align-items: start;
+      }
+      .Accessibility-box img{
+          padding-right: 15px;
+      }
+      .Persona img, .Digital-Wireframes img, .User img, .Low-fidelity img, .Paper img{
+          width: 100%;
+      }
+     .prev-next a:hover{
+   text-decoration: none; 
+}
+      .prev, .next{  
+          color:#fff;
+          padding: 40px;
+          text-align: center;
+      }
+      .prev{
+        background-color: #E61E4D;  
+      }
+      .next{
+          background-color: #0056D2;
+      }
+      .t-b{
+          margin-top: 2rem;
+      }
+      ol.digital-changes{
+        list-style-type: number;
+          
+      }
+      ol.digital-changes li{
+          margin-bottom: 1rem;
+      }
+    
+      @media only screen and (max-width: 600px) {
+          .TimeTaking{
+              margin-bottom: 20px;
+          }
+          .t-b{
+              margin-top: 0;
+          }
+          .round-2{
+             margin-top:3rem;
+          }
+          .prev h3, .next h3{
+              font-size: 1rem; 
+          }
+           
+           .prev, .next{  
+               padding: 30px;}
+      }
+        

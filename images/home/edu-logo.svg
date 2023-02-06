@@ -1,0 +1,7 @@
+<svg id="Logo" xmlns="http://www.w3.org/2000/svg" width="74" height="56" viewBox="0 0 74 56">
+  <g id="Group_3" data-name="Group 3" transform="translate(0 1.71)">
+    <text id="EDU" transform="translate(0 37.29)" fill="#0056d2" font-size="34" font-family="Halant-Semibold, Halant" font-weight="600"><tspan x="0" y="0">EDU</tspan></text>
+  </g>
+  <text id="Education_is_your_right" data-name="Education is your right" transform="translate(5 44)" fill="#707070" font-size="5" font-family="Halant-Semibold, Halant" font-weight="600"><tspan x="0" y="0">Education is your right</tspan></text>
+  <path id="Icon_material-school" data-name="Icon material-school" d="M4.324,8.237v3.237l7.568,3.092,7.568-3.092V8.237l-7.568,3.092ZM11.891,0,0,4.856,11.891,9.711,21.62,5.739V11.33h2.163V4.856Z" transform="translate(52.62) rotate(25.976)" fill="#707070"/>
+</svg>
